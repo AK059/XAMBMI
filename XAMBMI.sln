@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMBMI", "XAMBMI.csproj", "{C8B9818E-0B17-4ED7-82C3-331DFD790585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B9818E-0B17-4ED7-82C3-331DFD790585}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1D10F9-B763-481A-A34C-4BACF71EDA52}
+	EndGlobalSection
+EndGlobal
